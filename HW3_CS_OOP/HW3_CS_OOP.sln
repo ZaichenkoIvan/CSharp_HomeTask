@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3_CS_OOP", "HW3_CS_OOP\HW3_CS_OOP.csproj", "{776E94F1-8628-4595-88CC-5DEF85C2716E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776E94F1-8628-4595-88CC-5DEF85C2716E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776E94F1-8628-4595-88CC-5DEF85C2716E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776E94F1-8628-4595-88CC-5DEF85C2716E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776E94F1-8628-4595-88CC-5DEF85C2716E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
